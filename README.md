@@ -225,7 +225,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
 📧 **Email:** cui_zhanlin121@163.com  
 📱 **Phone:** +61 412951694  
 💼 **LinkedIn:** [maverickcui](http://www.linkedin.com/in/maverickcui)  
-🎯 **Goal:** AI & Cloud Solution Architect  
+🎯 **Goal:** Best AI & Cloud Solution Architect with unique leading perceive 
 
 </div>
 
