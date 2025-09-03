@@ -81,7 +81,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
   - ⚡ Managed agile team with vanilla JS + Flutter frontend, custom LoRA training integration.
   - 🏆 Solution ranked 1st at 2025 China Mobile Global Partner Conference, earning early full-time offer.
 
-#### 🏢 BMW China
+#### 🏢 BMW
 - **Position:** IT Product Manager Intern (PMO) | Dec 2023 – Mar 2024
 - **Work Content:**  
   - 🔒 Assessed production-environment web risks; collaborated with IBM on agile improvements (+20% satisfaction).
@@ -229,7 +229,6 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
 
 </div>
 
-<!-- Update with your GitHub username when you have one -->
-<!-- You are my ![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg) visitor, Thank You! ❤ -->
+You are my ![Visitor Count](https://profile-counter.glitch.me/ZhanlinCui/count.svg) visitor, Thank You! ❤
 
 
