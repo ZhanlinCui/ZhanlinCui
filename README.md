@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Zhanlin Cui.</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi there, I'm Maverick Cui.</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <p align='center'>
@@ -15,7 +15,7 @@
 
  
   <h5 align="center">
-   <i>🔥AI-driven innovation meets cloud architecture🔥</i>
+   <i>🔥AI-driven innovation Tech Product Manager🔥</i>
   </h5> 
  
  
@@ -114,7 +114,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
      - ⚖️ Designed 3 risk-mitigation plans including automated monitoring and elastic scaling.
      - 👥 Modeled stakeholders and developed 12 key use-cases for seamless interactions.
 
-4. **"慧脑安芯" - AI Brain Health Management System** 🥈 **International Innovation Award Silver**
+4. **"NeuroWear" - AI Brain Health Management System** 🥈 **International Innovation Award Silver**
    - **Role:** Team Leader / Product Lead  
    - **Project Description:** 🧠 World's first non-invasive AI brain health management wearable system.
    - **Key Achievements:**
