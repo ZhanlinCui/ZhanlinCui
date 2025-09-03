@@ -199,7 +199,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
 - Plus 43+ additional industry certifications in cloud architecture, data management, and AI/ML
 
 #### 🌟 Leadership & Recognition
-- **Google Developer Group UNSW** - President & Founder
+- **Google Developer Group UNSW** - President
 - **University Computing & AI Society (UCS)** - Executive President & Founder
 - **Notion Campus Leader** - Australia/New Zealand Region
 - **City of Sydney ISLA** - International Student Leadership Ambassador (Gold Level)
