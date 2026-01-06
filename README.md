@@ -56,7 +56,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
 ### 💼 Work and Internship Experience
 
 #### 🏢 Xiaomi Technology
-- **Position:** AI Innovation Product Manager | Dec 2024 – Present
+- **Position:** AI Innovation Product Manager | Dec 2025 – Present
 - **Location:** Beijing HQ
 - **Work Content:**
   - 🌐 Leading product strategy for billion-DAU (Daily Active Users) AI innovation initiatives across Xiaomi ecosystem.
@@ -66,7 +66,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
   - 📊 Defining product vision and technical requirements for cutting-edge AI features across mobile, IoT, and smart home devices.
 
 #### 🏢 TCL Technology
-- **Position:** AI Product Manager Intern (CTO Assistant) | Aug 2024 – Nov 2024
+- **Position:** AI Product Manager Intern (CTO Assistant) | Aug 2025 – Nov 2025
 - **Work Content:**
   - 🤖 Led standardized LLM evaluation framework design covering logical consistency, knowledge recall, and contextual memory.
   - 🦾 Drove product design for "Ai Me" multimodal AI robot with speech recognition + image understanding + motion generation.
