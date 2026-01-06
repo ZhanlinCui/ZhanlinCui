@@ -64,6 +64,16 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
   - 🤖 Spearheading proactive intelligence product research - enabling AI systems to anticipate user needs before explicit requests.
   - 🔮 Leading spatial intelligence R&D - developing AI systems that understand and interact with 3D environments and physical spaces.
   - 📊 Defining product vision and technical requirements for cutting-edge AI features across mobile, IoT, and smart home devices.
+ 
+#### 🏢 SAS Institute (Sydney)
+- **Position:** AI Credit & Finance Product Lead | Aug 2024 – Nov 2024
+- **Location:** Sydney, Australia
+- **Work Content:**
+  - 🏦 Led 0-to-1 development of Australia's first AI-driven banking credit risk management platform as Capstone project lead.
+  - 🌏 Secured enterprise clients including HSBC, Macquarie Bank, and Commonwealth Bank of Australia (CBA).
+  - 📈 Delivered product performance exceeding industry benchmarks from JP Morgan & Oracle Circle in same-tier comparison.
+  - 🎯 Architected end-to-end credit risk assessment system integrating ML models, regulatory compliance, and real-time decisioning.
+  - 👥 Led cross-functional team through full product lifecycle from market research to enterprise deployment.
 
 #### 🏢 TCL Technology
 - **Position:** AI Product Manager Intern (CTO Assistant) | Aug 2025 – Nov 2025
