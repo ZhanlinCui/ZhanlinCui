@@ -22,8 +22,10 @@
 <br />
 
 <p align="center">
-  <h3> I'm 3rd year Computer Science student at UNSW with Distinction average.</h3>
+  <h3> I'm a Founder, AI product manager and Google/Microsoft/Oracle/Tencent certified AI Professional.</h3>
 </p>
+
+- 🚀 Currently @ Xiaomi Technology HQ - Leading AI Innovation Product Strategy for billion-DAU products, GUI technology roadmap, proactive intelligence & spatial intelligence R&D.
 
 - 🏆 2025 NVIDIA DPU Hackathon Global Champion - Led team to victory with AI-driven network security solution.
 
@@ -35,11 +37,11 @@
 
 - 🎯 Winner of 7+ international awards and holder of 47+ professional certifications including Oracle OCP & AWS.
 
-- 💼 Gained intensive experience at top firms: TCL Technology, China Mobile, Pulse AI, BMW, and China Merchants Bank.
+- 💼 Gained intensive experience at top firms: Xiaomi, TCL Technology, China Mobile, Pulse AI, BMW, and China Merchants Bank.
 
-- ⚡ Expert in LLM evaluation, multimodal AI systems, and enterprise-grade product optimization.
+- ⚡ Expert in LLM evaluation, multimodal AI systems, spatial intelligence, and enterprise-grade product optimization.
 
-- 💬 Ask me about AI product management, cloud solutions, or DPU/edge computing architectures.
+- 💬 Ask me about AI product management, cloud solutions, GUI innovation, or proactive intelligence systems.
 
 - 📫 How to reach me: cui_zhanlin121@163.com | +61 412951694
 
@@ -49,12 +51,22 @@
 
 ### 🎯 Career Objective:
 
-Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Architect, specializing in enterprise AI/ML solutions and scalable cloud infrastructure.
+Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Architect, specializing in enterprise AI/ML solutions, spatial intelligence, and scalable cloud infrastructure for billion-user products.
 
 ### 💼 Work and Internship Experience
 
+#### 🏢 Xiaomi Technology
+- **Position:** AI Innovation Product Manager | Dec 2024 – Present
+- **Location:** Beijing HQ
+- **Work Content:**
+  - 🌐 Leading product strategy for billion-DAU (Daily Active Users) AI innovation initiatives across Xiaomi ecosystem.
+  - 🖥️ Driving GUI (Graphical User Interface) technology strategic roadmap and next-generation interaction paradigms.
+  - 🤖 Spearheading proactive intelligence product research - enabling AI systems to anticipate user needs before explicit requests.
+  - 🔮 Leading spatial intelligence R&D - developing AI systems that understand and interact with 3D environments and physical spaces.
+  - 📊 Defining product vision and technical requirements for cutting-edge AI features across mobile, IoT, and smart home devices.
+
 #### 🏢 TCL Technology
-- **Position:** AI Product Manager Intern (CTO Assistant) | Aug 2025 – Present
+- **Position:** AI Product Manager Intern (CTO Assistant) | Aug 2024 – Nov 2024
 - **Work Content:**
   - 🤖 Led standardized LLM evaluation framework design covering logical consistency, knowledge recall, and contextual memory.
   - 🦾 Drove product design for "Ai Me" multimodal AI robot with speech recognition + image understanding + motion generation.
@@ -68,7 +80,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
   - 🛡️ Evaluated AI applications in fraud detection; simulation showed >20% fraud reduction potential.
 
 #### 🏢 Pulse AI
-- **Position:** AI Product Manager Intern | Jan 2025 – Mar 2025  
+- **Position:** AI Product Manager Intern | Jan 2024 – Mar 2024  
 - **Work Content:**
   - 🧠 Benchmarked mainstream GNN models and set production KPIs for model selection guidance.
   - 📱 Led App Store compliance review, interpreted policies, avoided major listing risks, cut testing time 30%.
@@ -225,10 +237,8 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
 📧 **Email:** cui_zhanlin121@163.com  
 📱 **Phone:** +61 412951694  
 💼 **LinkedIn:** [maverickcui](http://www.linkedin.com/in/maverickcui)  
-🎯 **Goal:** Best AI & Cloud Solution Architect with unique leading perceive 
+🎯 **Goal:** Best AI & Cloud Solution Architect with unique leading perspective
 
 </div>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ZhanlinCui/count.svg) visitor, Thank You! ❤
-
-
