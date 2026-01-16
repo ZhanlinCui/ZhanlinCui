@@ -56,7 +56,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
 ### 💼 Work and Internship Experience
 
 #### 🏢 Xiaomi Technology
-- **Position:** AI Innovation Product Manager | Dec 2025 – Present
+- **Position:** AI Innovation Product Manager Intern | Dec 2025 – Present
 - **Location:** Beijing HQ
 - **Work Content:**
   - 🌐 Leading product strategy for billion-DAU (Daily Active Users) AI innovation initiatives across Xiaomi ecosystem.
