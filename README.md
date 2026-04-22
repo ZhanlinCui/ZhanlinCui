@@ -15,29 +15,23 @@
 
  
   <h5 align="center">
-   <i>🔥AI-driven innovation Tech Product Manager🔥</i>
+   <i>🔥AI Native Tech Product Manager🔥</i>
   </h5> 
  
  
 <br />
 
 <p align="center">
-  <h3> I'm a Founder, AI product manager and Google/Microsoft/Oracle/Tencent certified AI Professional.</h3>
+  <h3> I'm founder of Molecules AI, Google PCA, Microsoft AI Expert, EX Xiaomi, BMW, CMB, TCL, Deloitte</h3>
 </p>
 
-- 🚀 Currently @ Xiaomi Technology HQ - Leading AI Innovation Product Strategy for billion-DAU products, GUI technology roadmap, proactive intelligence & spatial intelligence R&D.
-
-- 🏆 2025 NVIDIA DPU Hackathon Global Champion - Led team to victory with AI-driven network security solution.
+- 🏆 3× consecutive NVIDIA Hackathon Global Champion Team Lead - Led global champion teams across three consecutive competitions.
 
 - 🌟 President of Google Developer Group UNSW & City of Sydney recognized international student leader.
 
-- 🚀 Fluent in English, Japanese (N1), and native Chinese speaker with global perspective.
+- 🚀 EX @ Xiaomi Technology HQ - Leading AI Innovation Product Strategy for billion-DAU products, GUI technology roadmap, proactive intelligence & spatial intelligence R&D.
 
-- 🧠 Passionate about AI/ML product development, cloud architecture, and agile product management.
-
-- 🎯 Winner of 7+ international awards and holder of 47+ professional certifications including Oracle OCP & AWS.
-
-- 💼 Gained intensive experience at top firms: Xiaomi, TCL Technology, China Mobile, Pulse AI, BMW, and China Merchants Bank.
+- 🧠 Passionate about AI/ML and Agent Infra.
 
 - ⚡ Expert in LLM evaluation, multimodal AI systems, spatial intelligence, and enterprise-grade product optimization.
 
@@ -56,7 +50,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
 ### 💼 Work and Internship Experience
 
 #### 🏢 Xiaomi Technology
-- **Position:** AI Innovation Product Manager Intern | Dec 2025 – Present
+- **Position:** AI Innovation Product Manager Intern | Dec 2025 – Mar 2026
 - **Location:** Beijing HQ
 - **Work Content:**
   - 🌐 Leading product strategy for billion-DAU (Daily Active Users) AI innovation initiatives across Xiaomi ecosystem.
