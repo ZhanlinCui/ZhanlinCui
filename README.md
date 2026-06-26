@@ -10,22 +10,24 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Maverick Cui | 🤖 AI Native Builder | 🛸 Australia / China / Singapore <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Maverick Cui | 🤖 AI Native Founder | 🛸 Australia / China / Singapore <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
  
   <h5 align="center">
-   <i>🔥AI Native Tech Product Manager🔥</i>
+   <i>🔥AI Agent Architecture Engineer @ Baidu (Medo.dev) | AI Native Full-Stack Product Engineer🔥</i>
   </h5> 
  
  
 <br />
 
 <p align="center">
-  <h3> I'm founder of Molecules AI, Google PCA, Microsoft AI Expert, EX Xiaomi, BMW, CMB, TCL, Deloitte</h3>
+  <h3> AI Agent Architecture Engineer @ Baidu (Medo.dev) | Founder of EnterOS | Founder of Molecules AI | Google PCA | Microsoft AI Expert | EX Xiaomi, BMW, CMB, TCL, Deloitte</h3>
 </p>
 
-- 🏆 3× consecutive NVIDIA Hackathon Global Champion Team Lead - Led global champion teams across three consecutive competitions.
+- 🤖 @ Baidu Group (Overseas) - Architecting the Agent capability foundation & system architecture 3.0+ for Medo.dev, Baidu's overseas large-model app generation platform.
+
+- 🏆 3× Consecutive NVIDIA Hackathon Global Champion Team Lead - including 2026 NVIDIA DGX Spark Hackathon (EnterOS) & 2025 NVIDIA DPU Hackathon.
 
 - 🌟 President of Google Developer Group UNSW & City of Sydney recognized international student leader.
 
@@ -45,9 +47,13 @@
 
 ### 🎯 Career Objective:
 
-Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Architect, specializing in enterprise AI/ML solutions, spatial intelligence, and scalable cloud infrastructure for billion-user products.
+Building the infrastructure layer for the agentic era — multi-agent orchestration, LLM routing, and Skills engineering — as an AI Agent Architecture Engineer & AI-native full-stack product builder, delivering enterprise-grade AI systems for billion-user products.
 
 ### 💼 Work and Internship Experience
+
+#### 🏢 Baidu Group (Overseas Team)
+- **Position:** AI Agent Architecture Engineer | Apr 2026 – Present
+- Architecting the Agent capability foundation & system architecture 3.0+ for **Medo.dev** (秒哒 overseas edition), Baidu's large-model app generation platform — across multi-agent orchestration, LLM routing, and Skills engineering.
 
 #### 🏢 Xiaomi Technology
 - **Position:** AI Innovation Product Manager Intern | Dec 2025 – Mar 2026
@@ -106,15 +112,23 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
 
 #### 📌 Project Experience:
 
-1. **NVIDIA DPU Hackathon - AI Network Security System** 🏆 **2025 Global Champion**
-   - **Role:** Team Leader / Chief Architect
-   - **Project Description:** 🛡️ Pioneered hybrid architecture (LSTM + Rules Engine) on NVIDIA BlueField DPU for real-time network security defense.
+1. **EnterOS - First Enterprise-Grade Agent Team OS Platform** 🏆 **2026 NVIDIA DGX Spark Hackathon Global Champion**
+   - **Role:** Project Lead (Best Application on NVIDIA Nemoclaw) | Feb 2026 – Present
+   - **Project Description:** 🏢 Built the first org-level visual collaboration & governance layer for cross-heterogeneous AI Agent teams — solving enterprise multi-agent pain points around the missing control plane, long-conversation "memory loss," and communication overhead.
    - **Key Achievements:**
-     - ⚡ Reduced false positives by 35% with <50ms latency performance.
-     - 🔮 Designed predictive defense using 9-dimensional temporal analysis, improving proactive prevention by 40%.
-     - 🚀 Achieved 3x defensive efficiency increase and 230% accuracy improvement over traditional methods.
+     - 🧠 Designed a context-cache + flow-state-sync Agent topology mechanism with a self-developed hierarchical Memory network & co-evolution system, enabling cross-agent Tool-Calling memory协同.
+     - 🖥️ Validated at scale on NVIDIA DGX — the first realization of an Agent organizational structure across large Agent clusters.
+     - 🚀 Deployed across **377 Agent Teams**, lifting GPU compute throughput & utilization by **41.5%** and cutting long-conversation Token overhead by **34.2%**; ranked #1 in feasibility & innovation and featured in NVIDIA's community developer cases.
 
-2. **Deloitte AI-Driven Supply Chain Risk Management**
+2. **NVIDIA DPU Hackathon - AI Network Security System** 🏆 **2025 Global Champion (China Region)**
+   - **Role:** Product Lead / Full-Stack Architect | May 2025 – Jul 2025
+   - **Project Description:** 🛡️ Pioneered hybrid architecture (LSTM + Rules Engine) on NVIDIA BlueField DPU for real-time edge-AI network security defense — co-developed with Tsinghua AI Research Institute, SJTU Ising Lab, CUHK, and CAS teams.
+   - **Key Achievements:**
+     - ⚡ Reduced false positives by 35% with <50ms latency; end-to-end early-warning latency held under 50ms.
+     - 🔮 Designed predictive defense using 9-dimensional temporal analysis, improving proactive prevention by 40%, with the full system footprint kept within 200MB.
+     - 🚀 Achieved 3x defensive efficiency increase and 230% accuracy improvement over traditional software methods.
+
+3. **Deloitte AI-Driven Supply Chain Risk Management**
    - **Role:** Project Core Member  
    - **Project Description:** 🔗 Built intelligent supply chain risk management system comparing AWS Supply Chain with BMW iFactory platform.
    - **Key Achievements:**
@@ -122,7 +136,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
      - 📊 Authored 45-page governance report proposing "multi-source data + explainable models + automated alerts" framework.
      - ✅ Solution adopted for Deloitte's cloud-product roadmap.
 
-3. **NREIS - National Real Estate Information System**
+4. **NREIS - National Real Estate Information System**
    - **Role:** Project Manager
    - **Project Description:** 🏠 Comprehensive real estate information management system with smart buyer-seller interactions.
    - **Key Achievements:**
@@ -130,7 +144,7 @@ Aspiring to excel as an accomplished AI Product Manager and Cloud Solution Archi
      - ⚖️ Designed 3 risk-mitigation plans including automated monitoring and elastic scaling.
      - 👥 Modeled stakeholders and developed 12 key use-cases for seamless interactions.
 
-4. **"NeuroWear" - AI Brain Health Management System** 🥈 **International Innovation Award Silver**
+5. **"NeuroWear" - AI Brain Health Management System** 🥈 **International Innovation Award Silver**
    - **Role:** Team Leader / Product Lead  
    - **Project Description:** 🧠 World's first non-invasive AI brain health management wearable system.
    - **Key Achievements:**
