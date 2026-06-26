@@ -15,21 +15,21 @@
 
  
   <h5 align="center">
-   <i>🔥AI Agent Architecture Engineer @ Baidu (Medo.dev) | AI Native Full-Stack Product Engineer🔥</i>
+   <i>🔥AI Agent Architecture Engineer| AI Native Full-Stack Product Engineer🔥</i>
   </h5> 
  
  
 <br />
 
 <p align="center">
-  <h3> AI Agent Architecture Engineer @ Baidu (Medo.dev) | Founder of EnterOS | Founder of Molecules AI | Google PCA | Microsoft AI Expert | EX Xiaomi, BMW, CMB, TCL, Deloitte</h3>
+  <h3> AI Agent Architecture Engineer| Founder of EnterOS.ai | Google PCA | Microsoft AI Expert | EX Xiaomi, BMW, CMB, TCL, Deloitte</h3>
 </p>
 
-- 🤖 @ Baidu Group (Overseas) - Architecting the Agent capability foundation & system architecture 3.0+ for Medo.dev, Baidu's overseas large-model app generation platform.
+- 🤖Professional in architecting the enterprise level Agent capability.
 
 - 🏆 3× Consecutive NVIDIA Hackathon Global Champion Team Lead - including 2026 NVIDIA DGX Spark Hackathon (EnterOS) & 2025 NVIDIA DPU Hackathon.
 
-- 🌟 President of Google Developer Group UNSW & City of Sydney recognized international student leader.
+- 🌟 President of Google Developer Group UNSW.
 
 - 🚀 EX @ Xiaomi Technology HQ - Leading AI Innovation Product Strategy for billion-DAU products, GUI technology roadmap, proactive intelligence & spatial intelligence R&D.
 
