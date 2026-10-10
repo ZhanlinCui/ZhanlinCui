@@ -1,12 +1,14 @@
 <div align="center">
-  <h1>Maverick Cui</h1>
-  <h3>AI &amp; Cloud Solution Architect @ ByteDance</h3>
-  <p><strong>Architecting the systems behind the next generation of AI companies.</strong></p>
-  <p>AI-Native Cloud · LLMs · Video Models · World Models · Deep Tech</p>
+  <h1>Hi there, I'm Maverick. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" /></h1>
   <p>
-    <a href="https://www.linkedin.com/in/maverickcui">LinkedIn</a> ·
-    <a href="mailto:cui_zhanlin121@163.com">Email</a>
+    <a href="https://www.linkedin.com/in/maverickcui">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Connect with Maverick on LinkedIn" width="50" />
+    </a>
   </p>
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="" width="30" /> AI &amp; Cloud Solution Architect @ ByteDance <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="" width="30" /></h3>
+  <p><strong>Architecting the systems behind the next generation of AI companies.</strong></p>
+  <p><i>🔥 AI-Native Cloud · LLMs · Video Models · World Models · Deep Tech 🔥</i></p>
+  <p><a href="mailto:cui_zhanlin121@163.com">Email</a></p>
 </div>
 
 I architect the path from frontier AI capabilities to production systems and scalable businesses. As an **AI & Cloud Solution Architect at ByteDance**, I work with growth-stage AI companies across **cloud-native AI, LLMs, video models, world models, and deep tech**—connecting model capabilities, cloud architecture, and product strategy to address the decisions that determine whether an AI product can scale: **performance, reliability, operational complexity, and cost**.
