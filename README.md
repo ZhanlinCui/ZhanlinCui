@@ -1,79 +1,64 @@
 <div align="center">
-  <h1>Hi there, I'm Maverick.</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Maverick Cui</h1>
+  <h3>AI &amp; Cloud Solution Architect @ ByteDance</h3>
+  <p><strong>Architecting the systems behind the next generation of AI companies.</strong></p>
+  <p>AI-Native Cloud · LLMs · Video Models · World Models · Deep Tech</p>
+  <p>
+    <a href="https://www.linkedin.com/in/maverickcui">LinkedIn</a> ·
+    <a href="mailto:cui_zhanlin121@163.com">Email</a>
+  </p>
 </div>
 
-<p align='center'>
-<a href='http://www.linkedin.com/in/maverickcui'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width:50px;height:auto;">
- </a>
- </p>
+I architect the path from frontier AI capabilities to production systems and scalable businesses. As an **AI & Cloud Solution Architect at ByteDance**, I work with growth-stage AI companies across **cloud-native AI, LLMs, video models, world models, and deep tech**—connecting model capabilities, cloud architecture, and product strategy to address the decisions that determine whether an AI product can scale: **performance, reliability, operational complexity, and cost**.
 
+My background spans **agent architecture, AI-native product engineering, and enterprise AI systems**. I bring a builder's perspective to solution architecture, grounded in multi-agent orchestration, LLM routing, multimodal evaluation, and product development.
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Maverick Cui | 🤖 AI Native Founder | 🛸 Australia / China / Singapore <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
+- 🏆 **3× Consecutive NVIDIA Hackathon Global Champion Team Lead**, including the 2026 NVIDIA DGX Spark Hackathon (EnterOS) and 2025 NVIDIA DPU Hackathon.
+- 🚀 **Founder of EnterOS.ai**, building collaboration and governance infrastructure for enterprise AI agent teams.
+- 🌟 **President of Google Developer Group UNSW**.
+- 🧠 Previous experience across **Baidu, Xiaomi, TCL, China Merchants Bank, BMW, and SAS Institute**.
 
- 
-  <h5 align="center">
-   <i>🔥AI Agent Architecture Engineer| AI Native Full-Stack Product Engineer🔥</i>
-  </h5> 
- 
- 
-<br />
+### 🎯 Architecture Approach
 
-<p align="center">
-  <h3> AI Agent Architecture Engineer| Founder of EnterOS.ai | Google PCA | Microsoft AI Expert | EX Xiaomi, BMW, CMB, TCL, Deloitte</h3>
-</p>
+**Start with the business outcome. Make the architectural trade-offs explicit. Design for the operating reality.**
 
-- 🤖Professional in architecting the enterprise level Agent capability.
+I connect product ambition with system constraints, bringing model quality, infrastructure capacity, application design, and economics into the same architectural conversation. The goal is an AI system that can deliver value consistently as usage, workload complexity, and customer expectations grow.
 
-- 🏆 3× Consecutive NVIDIA Hackathon Global Champion Team Lead - including 2026 NVIDIA DGX Spark Hackathon (EnterOS) & 2025 NVIDIA DPU Hackathon.
+### 🔭 Current Focus
 
-- 🌟 President of Google Developer Group UNSW.
+| Focus | Architectural Lens |
+| --- | --- |
+| **Growth-Stage AI Companies** | Connect customer product roadmaps and growth priorities with AI and cloud architecture decisions. |
+| **Cloud-Native AI** | Align infrastructure and application design with workload requirements, reliability, scalability, and cost. |
+| **LLMs & Agent Systems** | Connect model capabilities with orchestration, routing, evaluation, and enterprise application architecture. |
+| **Video & World Models** | Approach emerging model workloads through their compute, data, serving, and application requirements. |
+| **Deep Tech** | Bridge advanced technology, system architecture, and practical product development. |
 
-- 🚀 EX @ Xiaomi Technology HQ - Leading AI Innovation Product Strategy for billion-DAU products, GUI technology roadmap, proactive intelligence & spatial intelligence R&D.
+### 💼 Professional Experience
 
-- 🧠 Passionate about AI/ML and Agent Infra.
+#### 🏢 ByteDance
 
-- ⚡ Expert in LLM evaluation, multimodal AI systems, spatial intelligence, and enterprise-grade product optimization.
-
-- 💬 Ask me about AI product management, cloud solutions, GUI innovation, or proactive intelligence systems.
-
-- 📫 How to reach me: cui_zhanlin121@163.com | +61 412951694
-
-- 🎓 Aspiring AI & Cloud Solution Architect with hands-on R&D and product management experience. 
-
-<br />
-
-### 🎯 Career Objective:
-
-Building the infrastructure layer for the agentic era — multi-agent orchestration, LLM routing, and Skills engineering — as an AI Agent Architecture Engineer & AI-native full-stack product builder, delivering enterprise-grade AI systems for billion-user products.
-
-### 💼 Work and Internship Experience
+- **Position:** AI & Cloud Solution Architect | Sep 2026 – Present
+- **Customer & Technical Focus:** Growth-stage AI companies · Cloud-native AI · LLMs · Video models · World models · Deep tech
+- **Solution Architecture:**
+  - Translate customer product ambitions and AI workload requirements into solution architectures that connect model capabilities, cloud infrastructure, and business priorities.
+  - Shape cloud-native AI solutions with explicit trade-offs across performance, reliability, scalability, operational complexity, and cost.
+  - Connect infrastructure choices, model capabilities, and application design across LLM, video-model, and world-model use cases.
+  - Bring agent architecture and AI product engineering experience to solution design for AI-native and deep-tech customers.
 
 #### 🏢 Baidu Group (Overseas Team)
-- **Position:** AI Agent Architecture Engineer | Apr 2026 – Present
-- Architecting the Agent capability foundation & system architecture 3.0+ for **Medo.dev** (秒哒 overseas edition), Baidu's large-model app generation platform — across multi-agent orchestration, LLM routing, and Skills engineering.
+- **Position:** AI Agent Architecture Engineer | Apr 2026 – Sep 2026
+- Architected the Agent capability foundation & system architecture 3.0+ for **Medo.dev** (秒哒 overseas edition), Baidu's large-model app generation platform — across multi-agent orchestration, LLM routing, and Skills engineering.
 
 #### 🏢 Xiaomi Technology
 - **Position:** AI Innovation Product Manager Intern | Dec 2025 – Mar 2026
 - **Location:** Beijing HQ
 - **Work Content:**
-  - 🌐 Leading product strategy for billion-DAU (Daily Active Users) AI innovation initiatives across Xiaomi ecosystem.
-  - 🖥️ Driving GUI (Graphical User Interface) technology strategic roadmap and next-generation interaction paradigms.
-  - 🤖 Spearheading proactive intelligence product research - enabling AI systems to anticipate user needs before explicit requests.
-  - 🔮 Leading spatial intelligence R&D - developing AI systems that understand and interact with 3D environments and physical spaces.
-  - 📊 Defining product vision and technical requirements for cutting-edge AI features across mobile, IoT, and smart home devices.
- 
-#### 🏢 SAS Institute (Sydney)
-- **Position:** AI Credit & Finance Product Lead | Aug 2024 – Nov 2024
-- **Location:** Sydney, Australia
-- **Work Content:**
-  - 🏦 Led 0-to-1 development of Australia's first AI-driven banking credit risk management platform as Capstone project lead.
-  - 🌏 Secured enterprise clients including HSBC, Macquarie Bank, and Commonwealth Bank of Australia (CBA).
-  - 📈 Delivered product performance exceeding industry benchmarks from JP Morgan & Oracle Circle in same-tier comparison.
-  - 🎯 Architected end-to-end credit risk assessment system integrating ML models, regulatory compliance, and real-time decisioning.
-  - 👥 Led cross-functional team through full product lifecycle from market research to enterprise deployment.
+  - 🌐 Led product strategy for billion-DAU (Daily Active Users) AI innovation initiatives across Xiaomi ecosystem.
+  - 🖥️ Drove GUI (Graphical User Interface) technology strategic roadmap and next-generation interaction paradigms.
+  - 🤖 Spearheaded proactive intelligence product research - enabling AI systems to anticipate user needs before explicit requests.
+  - 🔮 Led spatial intelligence R&D - developing AI systems that understand and interact with 3D environments and physical spaces.
+  - 📊 Defined product vision and technical requirements for cutting-edge AI features across mobile, IoT, and smart home devices.
 
 #### 🏢 TCL Technology
 - **Position:** AI Product Manager Intern (CTO Assistant) | Aug 2025 – Nov 2025
@@ -89,12 +74,15 @@ Building the infrastructure layer for the agentic era — multi-agent orchestrat
   - ⛓️ Assessed blockchain feasibility in payments and supply-chain finance; supported digital-RMB pilot.
   - 🛡️ Evaluated AI applications in fraud detection; simulation showed >20% fraud reduction potential.
 
-#### 🏢 Pulse AI
-- **Position:** AI Product Manager Intern | Jan 2024 – Mar 2024  
+#### 🏢 SAS Institute (Sydney)
+- **Position:** AI Credit & Finance Product Lead | Aug 2024 – Nov 2024
+- **Location:** Sydney, Australia
 - **Work Content:**
-  - 🧠 Benchmarked mainstream GNN models and set production KPIs for model selection guidance.
-  - 📱 Led App Store compliance review, interpreted policies, avoided major listing risks, cut testing time 30%.
-  - 🚀 Created prototypes & user flows; iterative A/B testing doubled subscription rate (+120%).
+  - 🏦 Led 0-to-1 development of Australia's first AI-driven banking credit risk management platform as Capstone project lead.
+  - 🌏 Secured enterprise clients including HSBC, Macquarie Bank, and Commonwealth Bank of Australia (CBA).
+  - 📈 Delivered product performance exceeding industry benchmarks from JP Morgan & Oracle Circle in same-tier comparison.
+  - 🎯 Architected end-to-end credit risk assessment system integrating ML models, regulatory compliance, and real-time decisioning.
+  - 👥 Led cross-functional team through full product lifecycle from market research to enterprise deployment.
 
 #### 🏢 China Mobile
 - **Position:** AIGC Tech Product Manager Intern & System Analyst | Jun 2024 – Sep 2024
@@ -103,6 +91,13 @@ Building the infrastructure layer for the agentic era — multi-agent orchestrat
   - ⚡ Managed agile team with vanilla JS + Flutter frontend, custom LoRA training integration.
   - 🏆 Solution ranked 1st at 2025 China Mobile Global Partner Conference, earning early full-time offer.
 
+#### 🏢 Pulse AI
+- **Position:** AI Product Manager Intern | Jan 2024 – Mar 2024  
+- **Work Content:**
+  - 🧠 Benchmarked mainstream GNN models and set production KPIs for model selection guidance.
+  - 📱 Led App Store compliance review, interpreted policies, avoided major listing risks, cut testing time 30%.
+  - 🚀 Created prototypes & user flows; iterative A/B testing doubled subscription rate (+120%).
+
 #### 🏢 BMW
 - **Position:** IT Product Manager Intern (PMO) | Dec 2023 – Mar 2024
 - **Work Content:**  
@@ -110,13 +105,13 @@ Building the infrastructure layer for the agentic era — multi-agent orchestrat
   - 🚌 Updated commuter-bus system interfaces on Azure, cutting latency 10% and raising stability 15%.
   - 🌿 Researched EV IoT, L3 autonomy, plant-fiber materials; briefed regional CTO on carbon-neutral initiatives.
 
-#### 📌 Project Experience:
+### 📌 Selected Projects
 
 1. **EnterOS - First Enterprise-Grade Agent Team OS Platform** 🏆 **2026 NVIDIA DGX Spark Hackathon Global Champion**
    - **Role:** Project Lead (Best Application on NVIDIA Nemoclaw) | Feb 2026 – Present
    - **Project Description:** 🏢 Built the first org-level visual collaboration & governance layer for cross-heterogeneous AI Agent teams — solving enterprise multi-agent pain points around the missing control plane, long-conversation "memory loss," and communication overhead.
    - **Key Achievements:**
-     - 🧠 Designed a context-cache + flow-state-sync Agent topology mechanism with a self-developed hierarchical Memory network & co-evolution system, enabling cross-agent Tool-Calling memory协同.
+     - 🧠 Designed a context-cache + flow-state-sync Agent topology mechanism with a self-developed hierarchical Memory network & co-evolution system, enabling shared tool-calling memory across agents.
      - 🖥️ Validated at scale on NVIDIA DGX — the first realization of an Agent organizational structure across large Agent clusters.
      - 🚀 Deployed across **377 Agent Teams**, lifting GPU compute throughput & utilization by **41.5%** and cutting long-conversation Token overhead by **34.2%**; ranked #1 in feasibility & innovation and featured in NVIDIA's community developer cases.
 
@@ -152,25 +147,7 @@ Building the infrastructure layer for the agentic era — multi-agent orchestrat
      - 💰 Secured 100K+ RMB innovation funding support.
      - 🌏 Only undergraduate team to reach Oceania Top 10.
 
-
-### 🧑‍🎓 Education:
-
-#### 🎓 University of New South Wales (UNSW Sydney) - QS Top 20
-- 🖥️ Bachelor of Computer Science (Third Year)
-- 📅 **Duration:** Sep 2023 – Expected Aug 2026
-- 📊 **GPA:** Distinction Average (Top 10% in program)
-- 🏆 **Achievements:** College Scholarship Recipient
-- 📚 **Relevant Coursework:** System Analysis (Leading project), Database (Professional Cert), AI, Web Development, Product & Data Management
-- 💻 **Programming Languages Mastered:** Python, Java, JavaScript, C, MATLAB, Visual Basic
-- 🌐 **Languages:** English (Fluent), Japanese (N1), Chinese (Native)
-
-#### 🎓 Kansai Foreign Language School - Kyoto, Japan  
-- 📅 **Duration:** 2023 (High School)
-- 🗾 **International Experience:** Advanced Japanese language proficiency and cultural immersion
-- 📜 **Certification:** Japanese Language Proficiency Test N1 Level
-
-
-### My Skill Set:
+### 🛠️ Technical Toolkit
 <table><tr><td valign="top" width="33%">
 
 
@@ -219,9 +196,11 @@ Building the infrastructure layer for the agentic era — multi-agent orchestrat
 </tr>
 </table>
 
-### 🏆 Certifications & Leadership:
+### 🏆 Certifications & Leadership
 
 #### 🎖️ Professional Certifications (47+ Total)
+- **Google PCA**
+- **Microsoft AI Expert**
 - **Oracle OCP MySQL 8.0** - Database Administration Expert
 - **AWS ML/AI Specialist** - Machine Learning & Artificial Intelligence  
 - **Google AI Leadership Certificate** - AI Strategy & Implementation
@@ -235,6 +214,22 @@ Building the infrastructure layer for the agentic era — multi-agent orchestrat
 - **City of Sydney ISLA** - International Student Leadership Ambassador (Gold Level)
 - **Multiple International Awards** - NVIDIA, Deloitte, KPMG, China International Innovation Competition
 
+### 🧑‍🎓 Education
+
+#### 🎓 University of New South Wales (UNSW Sydney)
+- 🖥️ Bachelor of Computer Science
+- 📅 **Duration:** Sep 2023 – Sep 2026
+- 🎓 **Graduated:** September 2026
+- 📊 **GPA:** Distinction Average (Top 10% in program)
+- 🏆 **Achievements:** College Scholarship Recipient
+- 📚 **Relevant Coursework:** System Analysis (Leading project), Database (Professional Cert), AI, Web Development, Product & Data Management
+- 💻 **Programming Languages Mastered:** Python, Java, JavaScript, C, MATLAB, Visual Basic
+- 🌐 **Languages:** English (Fluent), Japanese (N1), Chinese (Native)
+
+#### 🎓 Kansai Foreign Language School - Kyoto, Japan  
+- 📅 **Duration:** 2023 (High School)
+- 🗾 **International Experience:** Advanced Japanese language proficiency and cultural immersion
+- 📜 **Certification:** Japanese Language Proficiency Test N1 Level
 
 <h2 align="center">🤝 Show Your Support</h2>
 
@@ -254,8 +249,8 @@ Building the infrastructure layer for the agentic era — multi-agent orchestrat
 
 📧 **Email:** cui_zhanlin121@163.com  
 📱 **Phone:** +61 412951694  
-💼 **LinkedIn:** [maverickcui](http://www.linkedin.com/in/maverickcui)  
-🎯 **Goal:** Best AI & Cloud Solution Architect with unique leading perspective
+💼 **LinkedIn:** [maverickcui](https://www.linkedin.com/in/maverickcui)  
+💡 **Let's Connect:** AI & cloud architecture, frontier-model applications, agent infrastructure, and deep-tech collaboration.
 
 </div>
 
