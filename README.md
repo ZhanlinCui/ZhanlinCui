@@ -1,21 +1,22 @@
 <div align="center">
-  <h1>Hi there, I'm Maverick. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" /></h1>
+  <h1>Hi, I'm Maverick.</h1>
+  <h3>AI &amp; Cloud Solution Architect @ ByteDance</h3>
+  <p><strong>AI Architecture · LLM Engineering · Agent Infrastructure</strong></p>
+  <p>Building AI systems—from frontier model capabilities to scalable infrastructure and production applications.</p>
+  <p><i>Cloud-Native AI · LLMs &amp; Agents · Video &amp; World Models · Deep Tech</i></p>
   <p>
-    <a href="https://www.linkedin.com/in/maverickcui">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Connect with Maverick on LinkedIn" width="50" />
-    </a>
+    <a href="https://www.linkedin.com/in/maverickcui">LinkedIn</a> ·
+    <a href="mailto:cui_zhanlin121@163.com">Email</a> ·
+    <a href="https://github.com/EnterOS-AI/enter-os-core">EnterOS</a> ·
+    <a href="https://github.com/ZhanlinCui/Synkora-AI-System">Synkora</a>
   </p>
-  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="" width="30" /> AI &amp; Cloud Solution Architect @ ByteDance <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="" width="30" /></h3>
-  <p><strong>Architecting the systems behind the next generation of AI companies.</strong></p>
-  <p><i>🔥 AI-Native Cloud · LLMs · Video Models · World Models · Deep Tech 🔥</i></p>
-  <p><a href="mailto:cui_zhanlin121@163.com">Email</a></p>
 </div>
 
-I architect the path from frontier AI capabilities to production systems and scalable businesses. As an **AI & Cloud Solution Architect at ByteDance**, I work with growth-stage AI companies across **cloud-native AI, LLMs, video models, world models, and deep tech**—connecting model capabilities, cloud architecture, and product strategy to address the decisions that determine whether an AI product can scale: **performance, reliability, operational complexity, and cost**.
+I design and build AI systems across **LLM applications, multi-agent orchestration, and cloud-native infrastructure**. As an **AI & Cloud Solution Architect at ByteDance**, I work with growth-stage AI companies to connect model capabilities, system architecture, and product engineering—with explicit trade-offs across **performance, reliability, scalability, operational complexity, and cost**.
 
-My background spans **agent architecture, AI-native product engineering, and enterprise AI systems**. I bring a builder's perspective to solution architecture, grounded in multi-agent orchestration, LLM routing, multimodal evaluation, and product development.
+My background spans **agent architecture, AI-native product engineering, and enterprise AI systems**. My engineering interests include agent runtimes, context and memory systems, model routing, multimodal evaluation, and end-to-end AI product development across cloud, web, and iOS.
 
-- 🏆 **3× Consecutive NVIDIA Hackathon Global Champion Team Lead**, including the 2026 NVIDIA DGX Spark Hackathon (EnterOS) and 2025 NVIDIA DPU Hackathon.
+- 🏆 **11× Champion in Leading Technology Competitions**, including **3 consecutive NVIDIA Hackathon global titles as team lead**, with wins at the **2026 NVIDIA DGX Spark Hackathon (EnterOS)** and **2025 NVIDIA DPU Hackathon**.
 - 🚀 **Founder of EnterOS.ai**, building collaboration and governance infrastructure for enterprise AI agent teams.
 - 🌟 **President of Google Developer Group UNSW**.
 - 🧠 Previous experience across **Baidu, Xiaomi, TCL, China Merchants Bank, BMW, and SAS Institute**.
@@ -35,6 +36,163 @@ I connect product ambition with system constraints, bringing model quality, infr
 | **LLMs & Agent Systems** | Connect model capabilities with orchestration, routing, evaluation, and enterprise application architecture. |
 | **Video & World Models** | Approach emerging model workloads through their compute, data, serving, and application requirements. |
 | **Deep Tech** | Bridge advanced technology, system architecture, and practical product development. |
+
+### 📌 Selected Projects
+
+#### 1. [EnterOS — Enterprise Agent Team Operating System](https://github.com/EnterOS-AI/enter-os-core)
+🏆 **2026 NVIDIA DGX Spark Hackathon Global Champion**
+
+- **Role:** Project Lead (Best Application on NVIDIA Nemoclaw) | Feb 2026 – Present
+- **Overview:** Built an organization-level collaboration and governance layer for heterogeneous AI agent teams, addressing shared memory, agent coordination, and enterprise control-plane requirements.
+- **Key Contributions & Results:**
+  - Designed an agent topology combining context caching, flow-state synchronization, and a hierarchical memory network to share tool-calling context across agents.
+  - Validated large-scale agent coordination on NVIDIA DGX infrastructure.
+  - Deployed across **377 agent teams**, increasing GPU compute throughput and utilization by **41.5%** and reducing long-conversation token overhead by **34.2%**.
+  - Ranked **#1 in feasibility and innovation** and featured in NVIDIA's community developer cases.
+
+#### 2. [Synkora — Intelligent Control Plane for AI & GPU Infrastructure](https://github.com/ZhanlinCui/Synkora-AI-System)
+🏆 **Oceania Gold Award — CICSIC 2026**
+
+- **Role:** Project Owner
+- **Overview:** Architected an AI-driven control plane for GPU clouds, HPC clusters, and AI data centers—unifying workload scheduling, energy orchestration, SLA commitments, profitability, and carbon compliance within an explainable, auditable decision system.
+- **Key Contributions & Results:**
+  - **Systems Architecture:** Designed a layered architecture spanning workload intelligence, predictive modeling, multi-objective optimization, deterministic guardrails, and approval and audit workflows.
+  - **Decision Intelligence:** Combined multi-output outcome prediction with profile-conditioned ranking to evaluate where, when, and how GPU workloads should execute across cost, carbon, SLA, and profit objectives.
+  - **Compute–Energy Co-Optimization:** Jointly modeled compute and energy actions, including workload deferral, cross-site migration, power capping, renewable energy use, and battery dispatch.
+  - **Controlled Execution:** Built guarded decision serving with capacity, deadline, and compliance checks, fallback policies, and traceable decision lineage.
+  - **Benchmark Validation:** Achieved **27.80% lower energy cost** and **31.45% lower carbon emissions** against a same-site, immediate-execution baseline across **7,500 held-out task groups in simulation**. [Experiment details](https://github.com/ZhanlinCui/Synkora-AI-System/blob/main/docs/04-algorithms/rollout-ranker-comparison.md)
+- **Core Stack:** Python · PyTorch · LightGBM · FastAPI · NumPy · pandas · Apache Parquet
+
+#### 3. NVIDIA DPU Hackathon — AI Network Security System
+🏆 **2025 Global Champion**
+
+- **Role:** Product Lead / Full-Stack Architect | May 2025 – Jul 2025
+- **Overview:** Built a hybrid LSTM and rules-engine architecture on NVIDIA BlueField DPU for real-time edge AI network security, in collaboration with teams from Tsinghua AI Research Institute, SJTU Ising Lab, CUHK, and CAS.
+- **Key Contributions & Results:**
+  - Reduced false positives by **35%**, with end-to-end early-warning latency below **50 ms**.
+  - Designed predictive defense using nine-dimensional temporal analysis, improving proactive prevention by **40%** within a **200 MB** system footprint.
+  - Achieved **3× defensive efficiency** and a **230% accuracy improvement** over traditional software methods.
+
+#### 4. NeuroWear — AI-Powered Brain Health & Wearable Intelligence
+🏆 **Global Gold Award — CICSIC 2025**
+
+- **Role:** Project Owner
+- **Overview:** An AI-powered, non-invasive brain health management system integrating smart wearable technology to support early screening and personalized brain health insights.
+- **Key Contributions & Results:**
+  - Led the UNSW team to the **Gold Award at the National (Global) Finals of the China International College Students’ Innovation Competition 2025**.
+  - Combined AI and wearable technology to support early screening and personalized management of brain health conditions, including Alzheimer's and Parkinson's disease.
+  - Secured **RMB 100,000+ in innovation funding** to support project development.
+- **Recognition:** [UNSW Centre for Healthy Brain Ageing announcement](https://www.linkedin.com/posts/unsw-cheba_cheba-student-wins-gold-at-global-innovation-activity-7424587509021560832-MPGG)
+
+### 🛠️ AI & Engineering Stack
+
+<table>
+  <thead>
+    <tr><th align="left">Engineering Area</th><th align="left">Technologies &amp; Ecosystem</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="210" valign="middle"><strong>Agent Architecture &amp; Infrastructure</strong></td>
+      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langgraph-color.svg" alt="LangGraph" title="LangGraph" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langchain-color.svg" alt="LangChain" title="LangChain" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/llamaindex-color.svg" alt="LlamaIndex" title="LlamaIndex" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/mcp.svg" alt="Model Context Protocol" title="Model Context Protocol" width="36" height="36" /><br /><sub>LangGraph · LangChain · LlamaIndex · MCP · A2A</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>LLM Engineering &amp; Serving</strong></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/vllm-color.svg" alt="vLLM" title="vLLM" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/nvidia-color.svg" alt="NVIDIA" title="NVIDIA" width="36" height="36" /><br /><sub>PyTorch · Hugging Face · vLLM · SGLang · LiteLLM · TensorRT-LLM</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>Post-Training &amp; Agent RL</strong></td>
+      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" alt="Hugging Face Transformers, PEFT and TRL" title="Hugging Face Transformers, PEFT and TRL" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /><br /><sub>Transformers · PEFT · TRL · verl · Ray</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>Retrieval, Memory &amp; Evaluation</strong></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Light.svg" alt="Redis" title="Redis" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Elasticsearch-Light.svg" alt="Elasticsearch" title="Elasticsearch" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langfuse-color.svg" alt="Langfuse" title="Langfuse" width="36" height="36" /><br /><sub>PostgreSQL · pgvector · Redis · Qdrant · Langfuse · Ragas</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>Cloud-Native AI Infrastructure</strong></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="AWS" title="AWS" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Light.svg" alt="Azure" title="Azure" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Light.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/volcengine-color.svg" alt="Volcano Engine" title="Volcano Engine" width="36" height="36" /><br /><sub>AWS · Azure · Google Cloud · Volcano Engine · Docker · Kubernetes</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>Full-Stack Engineering</strong></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python" title="Python" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" alt="Go" title="Go" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" alt="React" title="React" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="Next.js" title="Next.js" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" alt="FastAPI" title="FastAPI" width="36" height="36" /><br /><sub>Python · TypeScript · Go · React · Next.js · FastAPI</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>iOS &amp; On-Device Intelligence</strong></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" alt="Swift" title="Swift" width="36" height="36" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode" width="36" height="36" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple platform development" title="Apple platform development" width="36" height="36" /><br /><sub>Swift · SwiftUI · Xcode · Core ML · Foundation Models · MLX</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>Data &amp; Developer Tools</strong></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Light.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" alt="Linux" title="Linux" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" alt="Figma" title="Figma" width="36" height="36" /><br /><sub>MySQL · Git · GitHub Actions · Linux · Figma</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>Models &amp; APIs</strong></td>
+      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg" alt="OpenAI" title="OpenAI" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg" alt="Claude" title="Claude" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg" alt="Gemini" title="Gemini" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/doubao-color.svg" alt="Doubao" title="Doubao" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/deepseek-color.svg" alt="DeepSeek" title="DeepSeek" width="36" height="36" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/qwen-color.svg" alt="Qwen" title="Qwen" width="36" height="36" /><br /><sub>OpenAI · Claude · Gemini · Doubao · DeepSeek · Qwen</sub></td>
+    </tr>
+  </tbody>
+</table>
+
+**Architecture Focus:** Multi-Agent Orchestration · Context & Memory Systems · Model Routing · Multimodal Evaluation · Enterprise Agent Governance · Scalable AI Infrastructure
 
 ### 💼 Professional Experience
 
@@ -107,97 +265,6 @@ I connect product ambition with system constraints, bringing model quality, infr
   - 🚌 Updated commuter-bus system interfaces on Azure, cutting latency 10% and raising stability 15%.
   - 🌿 Researched EV IoT, L3 autonomy, plant-fiber materials; briefed regional CTO on carbon-neutral initiatives.
 
-### 📌 Selected Projects
-
-1. **EnterOS - First Enterprise-Grade Agent Team OS Platform** 🏆 **2026 NVIDIA DGX Spark Hackathon Global Champion**
-   - **Role:** Project Lead (Best Application on NVIDIA Nemoclaw) | Feb 2026 – Present
-   - **Project Description:** 🏢 Built the first org-level visual collaboration & governance layer for cross-heterogeneous AI Agent teams — solving enterprise multi-agent pain points around the missing control plane, long-conversation "memory loss," and communication overhead.
-   - **Key Achievements:**
-     - 🧠 Designed a context-cache + flow-state-sync Agent topology mechanism with a self-developed hierarchical Memory network & co-evolution system, enabling shared tool-calling memory across agents.
-     - 🖥️ Validated at scale on NVIDIA DGX — the first realization of an Agent organizational structure across large Agent clusters.
-     - 🚀 Deployed across **377 Agent Teams**, lifting GPU compute throughput & utilization by **41.5%** and cutting long-conversation Token overhead by **34.2%**; ranked #1 in feasibility & innovation and featured in NVIDIA's community developer cases.
-
-2. **NVIDIA DPU Hackathon - AI Network Security System** 🏆 **2025 Global Champion (China Region)**
-   - **Role:** Product Lead / Full-Stack Architect | May 2025 – Jul 2025
-   - **Project Description:** 🛡️ Pioneered hybrid architecture (LSTM + Rules Engine) on NVIDIA BlueField DPU for real-time edge-AI network security defense — co-developed with Tsinghua AI Research Institute, SJTU Ising Lab, CUHK, and CAS teams.
-   - **Key Achievements:**
-     - ⚡ Reduced false positives by 35% with <50ms latency; end-to-end early-warning latency held under 50ms.
-     - 🔮 Designed predictive defense using 9-dimensional temporal analysis, improving proactive prevention by 40%, with the full system footprint kept within 200MB.
-     - 🚀 Achieved 3x defensive efficiency increase and 230% accuracy improvement over traditional software methods.
-
-3. **Deloitte AI-Driven Supply Chain Risk Management**
-   - **Role:** Project Core Member  
-   - **Project Description:** 🔗 Built intelligent supply chain risk management system comparing AWS Supply Chain with BMW iFactory platform.
-   - **Key Achievements:**
-     - 🐍 Developed Python rules-engine with dynamic thresholds and time-series processing.
-     - 📊 Authored 45-page governance report proposing "multi-source data + explainable models + automated alerts" framework.
-     - ✅ Solution adopted for Deloitte's cloud-product roadmap.
-
-4. **NREIS - National Real Estate Information System**
-   - **Role:** Project Manager
-   - **Project Description:** 🏠 Comprehensive real estate information management system with smart buyer-seller interactions.
-   - **Key Achievements:**
-     - 📋 Created detailed WBS & Gantt charts with 11-week development schedule.
-     - ⚖️ Designed 3 risk-mitigation plans including automated monitoring and elastic scaling.
-     - 👥 Modeled stakeholders and developed 12 key use-cases for seamless interactions.
-
-5. **"NeuroWear" - AI Brain Health Management System** 🥈 **International Innovation Award Silver**
-   - **Role:** Team Leader / Product Lead  
-   - **Project Description:** 🧠 World's first non-invasive AI brain health management wearable system.
-   - **Key Achievements:**
-     - 🏆 Won China International College Innovation Competition Oceania Silver Award.
-     - 💰 Secured 100K+ RMB innovation funding support.
-     - 🌏 Only undergraduate team to reach Oceania Top 10.
-
-### 🛠️ Technical Toolkit
-<table><tr><td valign="top" width="33%">
-
-
-
-#### Programming Languages
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-#### Database & Tools
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-#### Cloud & AI
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-</div>
-</td>
-</tr>
-</table>
-
 ### 🏆 Certifications & Leadership
 
 #### 🎖️ Professional Certifications (47+ Total)
@@ -214,7 +281,8 @@ I connect product ambition with system constraints, bringing model quality, infr
 - **University Computing & AI Society (UCS)** - Executive President & Founder
 - **Notion Campus Leader** - Australia/New Zealand Region
 - **City of Sydney ISLA** - International Student Leadership Ambassador (Gold Level)
-- **Multiple International Awards** - NVIDIA, Deloitte, KPMG, China International Innovation Competition
+- **11× Champion in Leading Technology Competitions**, including three consecutive NVIDIA Hackathon global titles as team lead.
+- **CICSIC Gold Awards** — NeuroWear: Global Gold (2025); Synkora: Oceania Gold (2026).
 
 ### 🧑‍🎓 Education
 
@@ -233,27 +301,11 @@ I connect product ambition with system constraints, bringing model quality, infr
 - 🗾 **International Experience:** Advanced Japanese language proficiency and cultural immersion
 - 📜 **Certification:** Japanese Language Proficiency Test N1 Level
 
-<h2 align="center">🤝 Show Your Support</h2>
+### 📞 Let's Connect
 
-<p align="center">🌟 If you appreciate my work, don't forget to give it a star and spread the word to others!</p>
+- **Email:** [cui_zhanlin121@163.com](mailto:cui_zhanlin121@163.com)
+- **LinkedIn:** [maverickcui](https://www.linkedin.com/in/maverickcui)
+- **Phone:** +61 412951694
+- **Projects:** [EnterOS](https://github.com/EnterOS-AI/enter-os-core) · [Synkora](https://github.com/ZhanlinCui/Synkora-AI-System)
 
-<p align="center">Crafted with passion in Australia 🇦🇺 & China 🇨🇳</p>
-
-<h1 align="center">✨<i>Let's innovate together!</i>✨</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
-<div align="center">
-
-### 📞 Let's Connect!
-
-📧 **Email:** cui_zhanlin121@163.com  
-📱 **Phone:** +61 412951694  
-💼 **LinkedIn:** [maverickcui](https://www.linkedin.com/in/maverickcui)  
-💡 **Let's Connect:** AI & cloud architecture, frontier-model applications, agent infrastructure, and deep-tech collaboration.
-
-</div>
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/ZhanlinCui/count.svg) visitor, Thank You! ❤
+Open to collaboration on AI architecture, LLM and agent infrastructure, compute–energy optimization, and AI product engineering.
